@@ -1,3 +1,8 @@
+.DS_Store
 *.asv
-*.slxc
+*.mlx
+*.mat
+!result_V2.mat
+Circuits_Data/de-1927.geojson
 slprj/
+generated/
